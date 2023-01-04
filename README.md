@@ -29,13 +29,15 @@ after the success state or the Failed state it will go back to the Idle state, t
 # Finite State Machine
 Finite state machine (FSM) is a term used by programmers, mathematicians, engineers and other professionals to describe a mathematical model for any system that has a limited number of conditional states of being.
 
-This is the design for the finite state machine from the program above.
+This is the design for the finite state machine from the program above. \
 <img width="778" alt="image" src="https://user-images.githubusercontent.com/114371873/210552204-2c7ea1fb-a21f-4c2f-9099-2c94d2f9bf7b.png">
+
 # Truth Table
-Here's the truth table for the FSM Above:
+Here's the truth table for the FSM Above: \
 <img width="508" alt="image" src="https://user-images.githubusercontent.com/114371873/210552666-85e434c7-92b2-462b-b11f-3cf4d7788137.png">
+
 # Karnough Map and the derived Boolean equations
-Here's the Karnough map and the derived boolean equations for the FSM:
+Here's the Karnough map and the derived boolean equations for the FSM:\
 <img width="333" alt="image" src="https://user-images.githubusercontent.com/114371873/210552907-df5b2721-277c-4c8f-a2f4-3d2e55c1dc4b.png">
 
 
