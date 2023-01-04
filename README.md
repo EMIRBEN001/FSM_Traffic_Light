@@ -1,4 +1,4 @@
-# FSM_Traffic_Light
+# FSM_VIDEO_GAME_SCREEN
 
 # Running the Code
 this is how you run the code: \
