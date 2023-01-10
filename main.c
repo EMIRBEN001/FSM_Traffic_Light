@@ -1,5 +1,5 @@
 #include <stdio.h> // For stdout
-#include "mylib/xplatform.c" // For cross-platform xsleep() and xcls()
+#include "mylib/mylib.c" // For cross-platform xsleep() and xcls()
 
 void goToState(void); // Prototype
 
