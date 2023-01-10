@@ -10,6 +10,8 @@ int currState = -1;
 int main(void) {
 
 	while(1) {
+	printf("\033[2J"); // Clear screen 
+        printf("\033[1;1H"); // Move cursor to upper left	
         xcls();
         printf("\nVideo Game Animation\n");
         printf("\nDrawn by Emir Ben -2602206770\n");
