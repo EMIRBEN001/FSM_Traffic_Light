@@ -1,5 +1,4 @@
 run:	
-	gcc -w -o main.o main.c
+	gcc main.c -o main.out
 clear:
-	rm -rf *.o
-	rm -rf *.exe
+	rm -rf *.o main
