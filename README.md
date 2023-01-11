@@ -4,7 +4,7 @@ this is how you run the code: \
 Disclaimer: make sure to run the "make clear" command on the terminal to run the code smoothly as instructed 
 ```
 make run
-./main.o
+./main.out
 ``` 
 and after that, this should appear \
 IDLE State: \
@@ -30,7 +30,8 @@ after the success state or the Failed state it will go back to the Idle state, t
 Finite state machine (FSM) is a term used by programmers, mathematicians, engineers and other professionals to describe a mathematical model for any system that has a limited number of conditional states of being.
 
 This is the design for the finite state machine from the program above. \
-<img width="778" alt="image" src="https://user-images.githubusercontent.com/114371873/210552204-2c7ea1fb-a21f-4c2f-9099-2c94d2f9bf7b.png">
+![FSM](https://user-images.githubusercontent.com/114371873/211802573-1bea7458-cefd-4dd3-9938-55291a37f073.jpg)
+
 
 # Truth Table
 Here's the truth table for the FSM Above: \
@@ -38,7 +39,8 @@ Here's the truth table for the FSM Above: \
 
 # Karnough Map and the derived Boolean equations
 Here's the Karnough map and the derived boolean equations for the FSM:\
-<img width="333" alt="image" src="https://user-images.githubusercontent.com/114371873/210552907-df5b2721-277c-4c8f-a2f4-3d2e55c1dc4b.png">
+![kmap](https://user-images.githubusercontent.com/114371873/211802814-3b4b7aeb-a8dd-49ba-9565-13105e7a6339.jpeg)
+
 
 
 
